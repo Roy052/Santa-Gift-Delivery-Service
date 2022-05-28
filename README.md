@@ -28,6 +28,10 @@
       </table>
   </div>
   <div>
+    <h2> Game Play Video </h2>
+    https://youtu.be/83zRhE63OpY
+  </div>
+  <div>
     <h2> What I learned </h2>
       I reused the code in IOTSCD Project.<br><br>
       It taught me how to change and improve existing code
